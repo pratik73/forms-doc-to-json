@@ -13,6 +13,7 @@ const getContentNodes = (node, index, parentIndex) => {
         fontFamily: styles.fontFamily,
         fontWeight: styles.fontWeight,
         fontSize: styles.fontSize,
+        backgroundColor: styles.backgroundColor
       },
       parentIndex: parentIndex,
     });
