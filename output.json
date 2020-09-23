@@ -1,0 +1,508 @@
+[
+  {
+    "text": "\n      ",
+    "location": {
+      "x": 8,
+      "y": 8,
+      "width": 1264,
+      "height": 460.66668701171875,
+      "top": 8,
+      "right": 1272,
+      "bottom": 468.66668701171875,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "\"Times New Roman\"",
+      "fontWeight": "400",
+      "fontSize": "16px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "\n        ",
+    "location": {
+      "x": 8,
+      "y": 8,
+      "width": 1264,
+      "height": 36.66666793823242,
+      "top": 8,
+      "right": 1272,
+      "bottom": 44.66666793823242,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "Introduction",
+    "location": {
+      "x": 8,
+      "y": 4.6666669845581055,
+      "width": 172.5104217529297,
+      "height": 42.66666793823242,
+      "top": 4.6666669845581055,
+      "right": 180.5104217529297,
+      "bottom": 47.33333492279053,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "\"Calibri Light\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "34.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "\n      ",
+    "location": {
+      "x": 180.5104217529297,
+      "y": 4.6666669845581055,
+      "width": 0,
+      "height": 42.66666793823242,
+      "top": 4.6666669845581055,
+      "right": 180.5104217529297,
+      "bottom": 47.33333492279053,
+      "left": 180.5104217529297
+    },
+    "styles": {
+      "fontFamily": "\"Calibri Light\", sans-serif",
+      "fontWeight": "700",
+      "fontSize": "34.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "\n        ",
+    "location": {
+      "x": 8,
+      "y": 55.333335876464844,
+      "width": 1264,
+      "height": 30.666664123535156,
+      "top": 55.333335876464844,
+      "right": 1272,
+      "bottom": 86,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "This Human Resources Employment Policies manual is for all Messiah\n          University employees and supersedes all previous editions. All\n          employees are subject to the terms and conditions of the Human\n          Resources Employment Policies Manual. Employees are also subject to\n          the terms and conditions of the Community of Educators (COE) Handbook\n          if applicable for their employment classification",
+    "location": {
+      "x": 8,
+      "y": 54,
+      "width": 1236.8646240234375,
+      "height": 18,
+      "top": 54,
+      "right": 1244.8646240234375,
+      "bottom": 72,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgb(255, 255, 0)"
+    },
+    "metaSyles": {
+      "justify": "center",
+      "fontFamily": "Albany AMT",
+      "fontSize": "12pt",
+      "fontWeight": "Bold",
+      "letterCasing": "Capital"
+    }
+  },
+  {
+    "text": " ",
+    "location": {
+      "x": 8,
+      "y": 95.33333587646484,
+      "width": 3.3229169845581055,
+      "height": 18,
+      "top": 95.33333587646484,
+      "right": 11.322916984558105,
+      "bottom": 113.33333587646484,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "\n        ",
+    "location": {
+      "x": 8,
+      "y": 122.66667175292969,
+      "width": 1264,
+      "height": 30.666671752929688,
+      "top": 122.66667175292969,
+      "right": 1272,
+      "bottom": 153.33334350585938,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "This manual provides policies and procedures to establish a standard\n          that guides how we conduct ourselves as employees including how we\n          work, interact with ",
+    "location": {
+      "x": 8,
+      "y": 121.33333587646484,
+      "width": 949.5729370117188,
+      "height": 18.00000762939453,
+      "top": 121.33333587646484,
+      "right": 957.5729370117188,
+      "bottom": 139.33334350585938,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "others",
+    "location": {
+      "x": 957.5729370117188,
+      "y": 121.33333587646484,
+      "width": 38.25,
+      "height": 18.00000762939453,
+      "top": 121.33333587646484,
+      "right": 995.8229370117188,
+      "bottom": 139.33334350585938,
+      "left": 957.5729370117188
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "\n      ",
+    "location": {
+      "x": 572.9896240234375,
+      "y": 136.6666717529297,
+      "width": 0,
+      "height": 18,
+      "top": 136.6666717529297,
+      "right": 572.9896240234375,
+      "bottom": 154.6666717529297,
+      "left": 572.9896240234375
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": " ",
+    "location": {
+      "x": 8,
+      "y": 162.6666717529297,
+      "width": 3.3229169845581055,
+      "height": 18,
+      "top": 162.6666717529297,
+      "right": 11.322916984558105,
+      "bottom": 180.6666717529297,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "\n        ",
+    "location": {
+      "x": 8,
+      "y": 190,
+      "width": 1264,
+      "height": 46,
+      "top": 190,
+      "right": 1272,
+      "bottom": 236,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "The University is committed to fair",
+    "location": {
+      "x": 8,
+      "y": 188.6666717529297,
+      "width": 204.5729217529297,
+      "height": 18,
+      "top": 188.6666717529297,
+      "right": 212.5729217529297,
+      "bottom": 206.6666717529297,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgb(0, 0, 255)"
+    },
+    "metaSyles": {
+      "fontWeight": "bold"
+    }
+  },
+  {
+    "text": " ",
+    "location": {
+      "x": 212.5729217529297,
+      "y": 188.6666717529297,
+      "width": 3.3229217529296875,
+      "height": 18,
+      "top": 188.6666717529297,
+      "right": 215.89584350585938,
+      "bottom": 206.6666717529297,
+      "left": 212.5729217529297
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": " ",
+    "location": {
+      "x": 8,
+      "y": 245.33334350585938,
+      "width": 3.3229169845581055,
+      "height": 18,
+      "top": 245.33334350585938,
+      "right": 11.322916984558105,
+      "bottom": 263.3333435058594,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "\n        Departmental documents must be consistent with this manual unless\n        approval is granted by the Vice President for Human Resources and\n        Compliance. This manual supersedes all inconsistent communications as\n        well as prior personnel policies and procedures. No provisions in this\n        manual should be construed as an implied or expressed contract or\n        guarantee of employment by the University.\n      ",
+    "location": {
+      "x": 8,
+      "y": 272.66668701171875,
+      "width": 1264,
+      "height": 30.666656494140625,
+      "top": 272.66668701171875,
+      "right": 1272,
+      "bottom": 303.3333435058594,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": " ",
+    "location": {
+      "x": 8,
+      "y": 312.66668701171875,
+      "width": 3.3229169845581055,
+      "height": 18,
+      "top": 312.66668701171875,
+      "right": 11.322916984558105,
+      "bottom": 330.66668701171875,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "\n        It is the practice of the University to process substantive changes in\n        these policies through our governance process. However, the University\n        reserves the right to interpret, alter, reduce, or eliminate any\n        practice, policy or benefit, in whole or in part, where changes in law\n        or other circumstances render changes in the policy necessary to the\n        welfare of the University. As changes are made in policies, the\n        appropriate pages in the manual will be brought up to date. A detailed\n        log of these changes is maintained with the manual. The manual is\n        maintained by the Office of Human Resources.\n      ",
+    "location": {
+      "x": 8,
+      "y": 340,
+      "width": 1264,
+      "height": 46,
+      "top": 340,
+      "right": 1272,
+      "bottom": 386,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": " ",
+    "location": {
+      "x": 8,
+      "y": 395.3333435058594,
+      "width": 3.3229169845581055,
+      "height": 18,
+      "top": 395.3333435058594,
+      "right": 11.322916984558105,
+      "bottom": 413.3333435058594,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "\n        In addition to materials contained in this manual, employees receive a\n        copy of Essential Commitments. This booklet presents several important\n        statements, including the identity and mission, foundational values,\n        statements of faith and community covenant. The University Charter,\n        Bylaws, and the Covenant between Messiah University and the Brethren in\n        Christ Church also include information which may be of interest to\n        ",
+    "location": {
+      "x": 8,
+      "y": 422.66668701171875,
+      "width": 1264,
+      "height": 46,
+      "top": 422.66668701171875,
+      "right": 1272,
+      "bottom": 468.66668701171875,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": "University",
+    "location": {
+      "x": 8,
+      "y": 452.66668701171875,
+      "width": 65.17708587646484,
+      "height": 16.666656494140625,
+      "top": 452.66668701171875,
+      "right": 73.17708587646484,
+      "bottom": 469.3333435058594,
+      "left": 8
+    },
+    "styles": {
+      "fontFamily": "Aharoni",
+      "fontWeight": "700",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgb(255, 255, 0)"
+    },
+    "metaSyles": {
+      "justify": "center",
+      "fontFamily": "Albany AMT",
+      "fontSize": "12pt",
+      "fontWeight": "Bold",
+      "letterCasing": "Capital"
+    }
+  },
+  {
+    "text": "\n          ",
+    "location": {
+      "x": 73.17708587646484,
+      "y": 452.66668701171875,
+      "width": 68.02083587646484,
+      "height": 16.666656494140625,
+      "top": 452.66668701171875,
+      "right": 141.1979217529297,
+      "bottom": 469.3333435058594,
+      "left": 73.17708587646484
+    },
+    "styles": {
+      "fontFamily": "Aharoni",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgb(255, 255, 0)"
+    },
+    "metaSyles": {
+      "justify": "center",
+      "fontFamily": "Albany AMT",
+      "fontSize": "12pt",
+      "fontWeight": "Bold",
+      "letterCasing": "Capital"
+    }
+  },
+  {
+    "text": "employees",
+    "location": {
+      "x": 76.84375,
+      "y": 452.66668701171875,
+      "width": 64.35417175292969,
+      "height": 16.666656494140625,
+      "top": 452.66668701171875,
+      "right": 141.1979217529297,
+      "bottom": 469.3333435058594,
+      "left": 76.84375
+    },
+    "styles": {
+      "fontFamily": "Aharoni",
+      "fontWeight": "700",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "text": ";",
+    "location": {
+      "x": 141.1979217529297,
+      "y": 452,
+      "width": 3.9270782470703125,
+      "height": 18,
+      "top": 452,
+      "right": 145.125,
+      "bottom": 470,
+      "left": 141.1979217529297
+    },
+    "styles": {
+      "fontFamily": "Calibri, sans-serif",
+      "fontWeight": "400",
+      "fontSize": "14.6667px",
+      "backgroundColor": "rgb(255, 255, 0)"
+    },
+    "metaSyles": {
+      "justify": "center",
+      "fontFamily": "Albany AMT",
+      "fontSize": "12pt",
+      "fontWeight": "Bold",
+      "letterCasing": "Capital"
+    }
+  }
+]
